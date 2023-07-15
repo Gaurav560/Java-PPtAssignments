@@ -53,7 +53,7 @@ class BankDetails {
         return (false);
     }
 }
-public class BankingApp {
+public class Q1 {
     public static void main(String arg[]) {
         Scanner sc = new Scanner(System.in);
         //create initial accounts

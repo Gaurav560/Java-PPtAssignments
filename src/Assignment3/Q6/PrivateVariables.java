@@ -1,4 +1,9 @@
 package Assignment3.Q6;
+
+
+
+//Encapsulation prevents access to data members and data methods by any external classes.
+// The encapsulation process improves the security of the encapsulated data.
 class TestEncapsulation {
     private String privateVar;
     TestEncapsulation() {
